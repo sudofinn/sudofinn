@@ -5,9 +5,8 @@
 - 🔭 I’m currently working on  my own startup.
 - 🌱 I’m currently learning TypeScript and TailwindCSS.
 - 💬 Ask me anything about Frontend development and entrepreneurship
-- 📫 How to reach me: [Homepage](https://finnguha.vercel.app/) [blog](https://atinyimprovement.vercel.app/)   , [email](gufi127127@gmail.com)
-- 😄 Pronouns: He/his
+- 📫 How to reach me: [Homepage](https://finnguha.vercel.app/) , [blog](https://atinyimprovement.vercel.app/)   , [email](gufi127127@gmail.com)
 - ⚡ Hobbies: reading, listening to lofi, coding
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudofinn&theme=tokyonight&show_icons=true)
+![Vim Finn GitHub stats](https://github-readme-stats.vercel.app/api?username=sudofinn&theme=tokyonight&show_icons=true)
 
