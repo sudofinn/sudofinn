@@ -9,3 +9,5 @@
 - 😄 Pronouns: He/his
 - ⚡ Hobbies: reading, listening to lofi, coding
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudofinn&theme=tokyonight&show_icons=true)
+
