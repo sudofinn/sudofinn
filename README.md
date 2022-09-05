@@ -15,6 +15,9 @@
   <a href="https://atinyimprovement.vercel.app/">
     <img src="https://img.shields.io/badge/blog-ffffff?style=for-the-badge&logo=About.me&logoColor=black" alt="Blog"/>
   </a>
+  <a href="https://sudofinn.gumroad.com/">
+    <img src="https://img.shields.io/badge/sell-03e3fc?style=for-the-badge&logo=About.here&logoColor=black" alt="Blog"/>
+  </a>
   
   
   
