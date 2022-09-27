@@ -5,17 +5,17 @@
 </div>
 
 <div id="badges">
- <a href="https://finnguha.vercel.app/">
+ <a href="https://finnguha.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Homepage-00AFF0?style=for-the-badge&logo=groupme&logoColor=white" alt="Homepage"/>
   </a>
   
-  <a href="https://www.reddit.com/user/vimfinn">
+  <a href="https://www.reddit.com/user/vimfinn" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-f55442?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
   </a>
-  <a href="https://atinyimprovement.vercel.app/">
+  <a href="https://atinyimprovement.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/blog-ffffff?style=for-the-badge&logo=About.me&logoColor=black" alt="Blog"/>
   </a>
-  <a href="https://vimfinn.gumroad.com/">
+  <a href="https://vimfinn.gumroad.com/" target="_blank">
     <img src="https://img.shields.io/badge/sell-03e3fc?style=for-the-badge&logo=About.here&logoColor=black" alt="Blog"/>
   </a>
   
@@ -37,7 +37,7 @@
 - 🔭 I’m currently working on  my own startup.
 - 🌱 I’m currently learning TypeScript and TailwindCSS.
 - 💬 Ask me anything about Frontend development and entrepreneurship
-- 📫 How to reach me: [Homepage](https://finnguha.vercel.app/) , [blog](https://atinyimprovement.vercel.app/)   , [email](mailto:gufi127127@gmail.com)
+- 📫 How to reach me: [Homepage](https://finnguha.dev/) , [blog](https://atinyimprovement.vercel.app/)   , [email](mailto:gufi127127@gmail.com)
 - ⚡ Hobbies: reading, listening to lofi, coding
 
 ![Vim Finn GitHub stats](https://github-readme-stats.vercel.app/api?username=sudofinn&theme=tokyonight&show_icons=true)
