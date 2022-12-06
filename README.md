@@ -34,7 +34,7 @@
 
 
 
-- 🔭 I’m currently working on  my own startup.
+- 🔭 I ´m releasing my startup CodingNotes on the 10th of December. Check it out [here](https://www.codingnotes.io/).
 - 🌱 I’m currently learning TypeScript and TailwindCSS.
 - 💬 Ask me anything about Frontend development and entrepreneurship
 - 📫 How to reach me: [Homepage](https://finnguha.dev/) , [blog](https://atinyimprovement.vercel.app/)   , [email](mailto:gufi127127@gmail.com)
